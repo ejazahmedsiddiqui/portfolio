@@ -1,3 +1,5 @@
+# portfolio
+This is my personal Portfolio website which is made in next.js along with postgresSQL and prisma as an ORM. Prisma was chosen because of its advanced features in Prisma 7 and ease to work with psql. Next js was chosen for SSR
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
